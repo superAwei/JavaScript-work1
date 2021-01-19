@@ -1,0 +1,58 @@
+/* 個人化設定 */
+.mx-bottom{
+    margin-bottom: 72px;
+}
+.red{
+    color: #A00404;
+}
+.border-color{
+    border-color: #96A9C4;
+}
+
+.bg-blue{
+   background-color: #415165;
+}
+.font-xs{
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.font-s{
+    font-size:24px;
+}
+.font-s-bold{
+    font-size:24px;
+    font-weight: bold;
+}
+.font-m{
+    font-size: 32px;
+    font: normal normal medium 24px/36px PingFang TC;
+}
+
+.font-family-SF{
+    font-family:SF Pro Text;
+}
+.font-family-TC{
+    font-family:PingFang TC;
+}
+
+
+/* header */
+header .name{
+    font: normal normal normal 80px/95px SF Pro Text;
+}
+header .photo{
+    width: 324px;
+    height: 324px;
+}
+
+/* work */
+.hex-logo{
+    width: 90px;
+    height: 67px;
+}
+
+.simtree-logo{
+    width: 72px;
+    height: 73px;
+}
