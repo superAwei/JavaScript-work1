@@ -41,18 +41,3 @@
 header .name{
     font: normal normal normal 80px/95px SF Pro Text;
 }
-header .photo{
-    width: 324px;
-    height: 324px;
-}
-
-/* work */
-.hex-logo{
-    width: 90px;
-    height: 67px;
-}
-
-.simtree-logo{
-    width: 72px;
-    height: 73px;
-}
